@@ -1,7 +1,4 @@
-# Project-21
+# p5.play-boilerplate
+Boiler plate for p5.play
 
-Check console tab for- 
-1. Bullet Speed
-2. Bullet Weight
-3. Thickness of the wall
-4. Damage done
+Check Console tab for speed, weight and deformation.
